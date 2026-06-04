@@ -1,0 +1,4 @@
+This is an async way of writing to a file.
+It has been an interesting class so far.This is a new line added to the previous content.
+The course is going smoothly...
+Thanks to my tutor, the explanation is great.
