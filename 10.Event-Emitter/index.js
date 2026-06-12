@@ -14,3 +14,4 @@ emitter.on('welcome', (name, workplace)=>{
 })
 
 emitter.emit('welcome', 'Faith Ukoh', 'Nicegram');
+
